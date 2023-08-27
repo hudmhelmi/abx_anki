@@ -1,0 +1,26 @@
+,MRSA,MSSA,"Steptococcus (grp A, B, C, G)",Streptococcus pneumoniae,Enterococcus fecalis,Finegoldia magna (prev Peptostreptococcus magna),Clostridioides difficile,Bacteroides fragilis,Hemophilus inflluenzae,"E.coli, Klebsiella sp, P. Mirabilis","ESBL‐producing Ecoli, Kleb",Enterobacter (Amp‐C producing GNR),Pseudomonas aeruginosa,"Legionella sp., Mycoplasma pneumoniae, Chlamydia pneumoniae"
+"Penicillin G (IV), V (PO)",0,8,9,9,9,9,0,0,0,0,0,0,0,0
+"Amoxicillin (PO), Ampicillin (IV) ",0,8,9,9,9,9,0,0,8,8: E. coli only,0,0,0,0
+Cloxacillin (IV/PO),0,9,9,0,0,0,0,0,0,0,0,0,0,0
+Amoxicillin‐clavulanate (IV/PO) ,0,9,9,9,9,9,0,9,9,9,8: Cystitis only.,0,0,0
+Piperacillin‐tazobactam (IV) ,0,9,9,9,9,9,0,9,9,9,8: Cystitis only.,8: Cystitis only,9,0
+"1st gen: cefazolin (IV), cephalexin (PO)",0,9,9,0,0,9,0,0,9,9,0,0,0,0
+2nd gen: cefuroxime (IV/PO),0,9,9,9,0,9,0,0,9,9,0,0,0,0
+3rd gen: ceftriaxone (IV) ,0,9,9,9,8: In combination,9,0,0,9,9,0,8: Cystitis only,0,0
+3rd gen: ceftazidime (IV) ,0,0,0,0,0,9,0,0,9,9,0,8: Cystitis only,9,0
+4th gen: cefepime (IV) ,0,9,9,9,0,9,0,0,9,9,8: Cystitis only.,8: Non-severe infection.,9,0
+5th gen: ceftaroline (IV) ,9,9,9,9,0,9,0,0,9,9,0,8: Cystitis only,0,0
+"Meropem, imipenem, doripenem (IV)",0,9,9,9,9,9,0,9,9,9,9,9,9,0
+Ertapenem (IV),0,9,9,9,0,9,0,9,9,9,9,9,0,0
+Erythromycin (IV/PO),0,8,8,8,0,0,0,0,8,0,0,0,0,9
+"Clarithromycin, Azithromycin (IV/PO)",0,8,8,8,0,0,0,0,9,0,0,0,0,9
+Doxycycline (PO),8,8,8,8,0,9,0,0,9,8,8,8,0,9
+Gentamicin (IV) ,0,8: In combination.,0,0,8: In combination,0,0,0,0,9,9,9,0: Controversial,0
+Amikacin (IV) ,0,0,0,0,0,0,0,0,0,9,9,9,9: UTI only,0
+Ciprofloxacin (IV/PO) ,0: Has activity but not used.,0: Has activity but not used.,0,0,8: ucUTI only.,0,0,0,9,9,8,8,9,0
+Levofloxacin (IV/PO) ,8: Use with caution.,8: Use with caution.,9,9,8: ucUTI only.,0,0,0,9,9,8,8,9,9
+Moxifloxacin (IV/PO) ,8: Use with caution.,8: Use with caution.,0,9,0,9,0,8,9,8: NO breakpoints from CLSI.,8: NO breakpoints from CLSI.,8: NO breakpoints from CLSI.,0,9
+Trimethoprim/Sulfamethoxazole (Co‐trimoxazole) (IV/PO),9,9,0,8,0,0,0,0,8,9,8,8,0,0
+Vancomycin (IV),9,9,9,9,9,0,9: PO only.,0,0,0,0,0,0,0
+Metronidazole (IV/PO),0,0,0,0,0,9,9,9,0,0,0,0,0,0
+Clindamycin (IV/PO),8,8,8,8,0,9,0,8,0,0,0,0,0,0
